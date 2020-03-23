@@ -4,7 +4,7 @@
 ## Materials Required
 You will need a set of each below for each magazine you make.
 - x4 M3 x 16mm Socket Head screws (or if you're feeling paitient and adventurous, super glue.)
-- x1 Replacement 10/15 Round Magazine springs (from Black Dog Machine LLC)[https://02bab52.netsolstores.com/ciener-replacement-recoil-spring-3.aspx]
+- x1 Replacement 10/15 Round Magazine springs [from Black Dog Machine LLC](https://02bab52.netsolstores.com/ciener-replacement-recoil-spring-3.aspx)
 - x1 medium/fine grip sandpaper or filing pen
 
 You may also benefit from having some [11" long 0.370" OD .312" ID .022" DIAMETER APPROXIMATELY 50 COILS Spring](https://02bab52.netsolstores.com/ciener-replacement-recoil-spring.aspx) handy.
